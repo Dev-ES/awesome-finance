@@ -50,7 +50,9 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [EconoMirna - Mirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
 
 ## Sites/Blogs
-
+* [Jornada do Dinheiro](http://jornadadodinheiro.com/)
+* [Jurus](http://www.jurus.com.br/#/home)
+* [Bússola do Investidor - ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/)
 
 ## Páginas no Facebook
 
