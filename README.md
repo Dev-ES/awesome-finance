@@ -38,6 +38,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Cryptomoeda
 
+Ver [aqui](Criptocurrency.md).
 
 ## Canais no You Tube
 
