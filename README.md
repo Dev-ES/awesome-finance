@@ -15,14 +15,14 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 # Conteúdo
 
-* Bancos
-* Corretoras
-* Cryptomoeda
-* Canais no You Tube
-* Sites/Blogs
-* Páginas no Facebook
-* Perfis do Twitter
-* Finanças internacionais
+* [Bancos](#bancos)
+* [Corretoras](#corretoras)
+* [Criptomoeda](#criptomoeda)
+* [Canais no You Tube](canais-no-youtube)
+* [Sites e Blogs](#sites-e-blogs)
+* [Páginas no Facebook](#páginas-no-facebook)
+* [Perfis do Twitter](#perfis-do-twitter)
+* [Finanças internacionais](#finanças-internacionais)
 
 ## Bancos
 
@@ -36,9 +36,9 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Warren](https://oiwarren.com/)
 * [modalmais](https://www.modalmais.com.br/)
 
-## Cryptomoeda
+## Criptomoeda
 
-Ver [aqui](Criptocurrency.md).
+* [Introdução](CRYPTOCURRENCY.md)
 
 ## Canais no You Tube
 
@@ -50,7 +50,7 @@ Ver [aqui](Criptocurrency.md).
 * [Blog de Valor - André Bona](https://www.youtube.com/user/andrelvbona)
 * [EconoMirna - Mirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
 
-## Sites/Blogs
+## Sites e Blogs
 * [Jornada do Dinheiro](http://jornadadodinheiro.com/)
 * [Jurus](http://www.jurus.com.br/#/home)
 * [Bússola do Investidor - ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/)
