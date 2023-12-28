@@ -48,6 +48,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Me poupe! - Nath](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
 * [O Primo Rico - Thiago Nigro](https://www.youtube.com/channel/UCT4nDeU5pv1XIGySbSK-GgA)
 * [Blog de Valor - André Bona](https://www.youtube.com/user/andrelvbona)
+* [Nanda Guardian](https://www.youtube.com/@nandaguardian)
 * [EconoMirna - Mirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
 
 ## Sites e Blogs
